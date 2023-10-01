@@ -15,18 +15,18 @@ a {
 body {
   background-color: #d9dcd6;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 /*Paragraph styles*/
 p {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 /*Styling for benefits section*/
 .benefits {
-  margin-right: 20px;
-  padding: 20px;
+  margin-right: 1.25rem;
+  padding: 1.25rem;
   clear: both;
   float: right;
   width: 20%;
@@ -39,7 +39,7 @@ p {
 .benefit-brand,
 .benefit-cost,
 .benefit-lead {
-  margin-bottom: 32px;
+  margin-bottom: 2rem;
   color: #ffffff;
 }
 
@@ -47,7 +47,7 @@ p {
 .benefit-brand h3,
 .benefit-cost h3,
 .benefit-lead h3 {
-  margin-bottom: 10px;
+  margin-bottom: 0.625rem;
   text-align: center;
 }
 
@@ -56,31 +56,31 @@ p {
 .benefit-cost img,
 .benefit-lead img {
   display: block;
-  margin: 10px auto;
-  max-width: 150px;
+  margin: 0.625rem auto;
+  max-width: 9.375rem;
 }
 
 /*Content section styles*/
 .content {
   width: 75%;
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 
 /*Float styles for images*/
 .float-left {
   float: left;
-  margin-right: 25px;
+  margin-right: 1.5625rem;
 }
 
 .float-right {
   float: right;
-  margin-left: 25px;
+  margin-left: 1.5625rem;
 }
 
 /*Footer styles*/
 .footer {
-  padding: 30px;
+  padding: 1.875rem;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -89,12 +89,12 @@ p {
 }
 
 .footer h2 {
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 /* Header styles */
 .header {
-  padding: 20px;
+  padding: 1.25rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   background-color: #2a607c;
@@ -103,11 +103,11 @@ p {
 
 /*Navigation menu styles*/
 .header nav {
-  padding-top: 15px;
-  margin-right: 20px;
+  padding-top: 0.9375rem;
+  margin-right: 1.25rem;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .header nav ul {
@@ -116,12 +116,12 @@ p {
 
 .header nav ul li {
   display: inline-block;
-  margin-left: 25px;
+  margin-left: 1.5625rem;
 }
 
 .header h1 {
   display: inline-block;
-  font-size: 48px;
+  font-size: 3rem;
 }
 
 .header h1 .seo {
@@ -130,9 +130,9 @@ p {
 
 /*Styles for hero section*/
 .hero {
-  height: 800px;
+  height: 50rem;
   width: 100%;
-  margin-bottom: 25px;
+  margin-bottom: 1.5625rem;
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
@@ -142,9 +142,9 @@ p {
 .online-reputation-management,
 .search-engine-optimization,
 .social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
+  margin-bottom: 1.25rem;
+  padding: 3.125rem;
+  height: 18.75rem;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
@@ -154,13 +154,13 @@ p {
 .online-reputation-management img,
 .search-engine-optimization img,
 .social-media-marketing img {
-  max-height: 200px;
+  max-height: 12.5rem;
 }
 
 /*Heading styles within service articles*/
 .online-reputation-management h2,
 .search-engine-optimization h2,
 .social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
+  margin-bottom: 1.25rem;
+  font-size: 2.25rem;
 }
